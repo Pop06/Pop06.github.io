@@ -1,1 +1,1 @@
-const Sc = document.getElementId = "SC"
+const Sc = document.getElementId("Sc")
